@@ -3,7 +3,7 @@
 
 # DOCKER & YOU
 
-![bg](images/dockerandyou.jpg)
+![bg](pictures/dockerandyou.jpg)
 
 ---
 
