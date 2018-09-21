@@ -196,9 +196,9 @@ Comparaison directe après un `docker pull`:
 
 [link](https://raw.githubusercontent.com/DiskoJordan/documentation/master/pictures/ubuntu-size.png)
 
-![alpine size](https://raw.githubusercontent.com/DiskoJordan/documentation/master/pictures/alpine-size.png)
+![alpine size](https://github.com/DiskoJordan/documentation/blob/master/docker/basics/pictures/alpine-size.png)
 
-[link](https://raw.githubusercontent.com/DiskoJordan/documentation/master/pictures/alpine-size.png)
+[link](https://github.com/DiskoJordan/documentation/blob/master/docker/basics/pictures/alpine-size.png)
 
 ---
 
