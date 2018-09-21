@@ -192,13 +192,13 @@ Facts:
 
 Comparaison directe après un `docker pull`:
 
-![ubuntu size](https://raw.githubusercontent.com/DiskoJordan/documentation/master/images/ubuntu-size.png)
+![ubuntu size](https://raw.githubusercontent.com/DiskoJordan/documentation/master/pictures/ubuntu-size.png)
 
-[link](https://raw.githubusercontent.com/DiskoJordan/documentation/master/images/ubuntu-size.png)
+[link](https://raw.githubusercontent.com/DiskoJordan/documentation/master/pictures/ubuntu-size.png)
 
-![alpine size](https://raw.githubusercontent.com/DiskoJordan/documentation/master/images/alpine-size.png)
+![alpine size](https://raw.githubusercontent.com/DiskoJordan/documentation/master/pictures/alpine-size.png)
 
-[link](https://raw.githubusercontent.com/DiskoJordan/documentation/master/images/alpine-size.png)
+[link](https://raw.githubusercontent.com/DiskoJordan/documentation/master/pictures/alpine-size.png)
 
 ---
 
